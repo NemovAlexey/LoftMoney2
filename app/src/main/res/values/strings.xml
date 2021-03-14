@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Loft Money</string>
+    <string name="weight_edittext">Вес, кг</string>
+    <string name="height_edittext">Рост, см</string>
+    <string name="age_edittext">Возраст, лет</string>
+    <string name="title_text">Введите данные для плана питания</string>
+    <string name="title_hint">Название</string>
+    <string name="price_hint">Цена</string>
+    <string name="add_button_text">Добавить</string>
+</resources>
